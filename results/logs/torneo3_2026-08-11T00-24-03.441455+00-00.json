@@ -1,0 +1,97 @@
+{
+ "started_at": "2026-08-11T00:24:03.441455+00:00",
+ "elapsed": 282.69,
+ "total_score": 945,
+ "played": 8,
+ "skipped": [],
+ "outcomes": [
+  {
+   "game_id": 27,
+   "player": "retry",
+   "score": 100,
+   "completed": 6,
+   "total_requests": 6,
+   "elapsed": 1.84,
+   "budget": 45.0,
+   "error": null,
+   "restored": false
+  },
+  {
+   "game_id": 20,
+   "player": "retry",
+   "score": 100,
+   "completed": 8,
+   "total_requests": 8,
+   "elapsed": 1.94,
+   "budget": 45.0,
+   "error": null,
+   "restored": false
+  },
+  {
+   "game_id": 21,
+   "player": "retry",
+   "score": 100,
+   "completed": 10,
+   "total_requests": 10,
+   "elapsed": 29.64,
+   "budget": 45.0,
+   "error": null,
+   "restored": true
+  },
+  {
+   "game_id": 24,
+   "player": "retry",
+   "score": 200,
+   "completed": 11,
+   "total_requests": 11,
+   "elapsed": 2.91,
+   "budget": 45.0,
+   "error": null,
+   "restored": false
+  },
+  {
+   "game_id": 22,
+   "player": "retry",
+   "score": 200,
+   "completed": 16,
+   "total_requests": 16,
+   "elapsed": 4.8,
+   "budget": 45.0,
+   "error": null,
+   "restored": false
+  },
+  {
+   "game_id": 23,
+   "player": "retry",
+   "score": 42,
+   "completed": 5,
+   "total_requests": 24,
+   "elapsed": 46.69,
+   "budget": 45.0,
+   "error": null,
+   "restored": false
+  },
+  {
+   "game_id": 26,
+   "player": "retry",
+   "score": 86,
+   "completed": 12,
+   "total_requests": 28,
+   "elapsed": 45.98,
+   "budget": 45.0,
+   "error": null,
+   "restored": true
+  },
+  {
+   "game_id": 25,
+   "player": "retry",
+   "score": 117,
+   "completed": 35,
+   "total_requests": 90,
+   "elapsed": 52.82,
+   "budget": 45.0,
+   "error": null,
+   "restored": false
+  }
+ ]
+}

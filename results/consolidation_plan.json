@@ -1,0 +1,213 @@
+{
+ "12": {
+  "strategy": "evasivo",
+  "target": 100,
+  "alternatives": [
+   "evasivo",
+   "retry"
+  ]
+ },
+ "13": {
+  "strategy": "bidirectional",
+  "target": 56,
+  "alternatives": [
+   "bidirectional",
+   "cortisimo",
+   "corto",
+   "evasivo",
+   "fragmentacion",
+   "hibrido",
+   "retry",
+   "shortest",
+   "shortest_hug",
+   "shortest_open",
+   "shortest_safe",
+   "shortest_turns",
+   "waypoints"
+  ]
+ },
+ "14": {
+  "strategy": "bidirectional",
+  "target": 15,
+  "alternatives": [
+   "bidirectional",
+   "cortisimo",
+   "corto",
+   "evasivo",
+   "fragmentacion",
+   "hibrido",
+   "retry",
+   "shortest",
+   "shortest_hug",
+   "shortest_open",
+   "shortest_safe",
+   "shortest_turns",
+   "waypoints"
+  ]
+ },
+ "15": {
+  "strategy": "shortest_turns",
+  "target": 162,
+  "alternatives": [
+   "shortest_turns"
+  ]
+ },
+ "16": {
+  "strategy": "bidirectional",
+  "target": 75,
+  "alternatives": [
+   "bidirectional",
+   "cortisimo",
+   "corto",
+   "evasivo",
+   "fragmentacion",
+   "hibrido",
+   "retry",
+   "shortest",
+   "shortest_hug",
+   "shortest_open",
+   "shortest_safe",
+   "shortest_turns",
+   "waypoints"
+  ]
+ },
+ "17": {
+  "strategy": "shortest_safe",
+  "target": 225,
+  "alternatives": [
+   "shortest_safe"
+  ]
+ },
+ "18": {
+  "strategy": "bidirectional",
+  "target": 75,
+  "alternatives": [
+   "bidirectional"
+  ]
+ },
+ "19": {
+  "strategy": "shortest",
+  "target": 85,
+  "alternatives": [
+   "retry",
+   "shortest",
+   "shortest_open"
+  ]
+ },
+ "20": {
+  "strategy": "bidirectional",
+  "target": 100,
+  "alternatives": [
+   "bidirectional",
+   "cortisimo",
+   "corto",
+   "evasivo",
+   "fragmentacion",
+   "hibrido",
+   "retry",
+   "shortest",
+   "shortest_hug",
+   "shortest_open",
+   "shortest_safe",
+   "shortest_turns",
+   "waypoints"
+  ]
+ },
+ "21": {
+  "strategy": "retry",
+  "target": 100,
+  "alternatives": [
+   "retry"
+  ]
+ },
+ "22": {
+  "strategy": "bidirectional",
+  "target": 200,
+  "alternatives": [
+   "bidirectional",
+   "cortisimo",
+   "corto",
+   "fragmentacion",
+   "hibrido",
+   "retry",
+   "shortest",
+   "shortest_hug",
+   "shortest_open",
+   "shortest_safe",
+   "shortest_turns"
+  ]
+ },
+ "23": {
+  "strategy": "bidirectional",
+  "target": 42,
+  "alternatives": [
+   "bidirectional",
+   "cortisimo",
+   "corto",
+   "fragmentacion",
+   "hibrido",
+   "retry",
+   "shortest",
+   "shortest_hug",
+   "shortest_open",
+   "shortest_safe",
+   "shortest_turns",
+   "waypoints"
+  ]
+ },
+ "24": {
+  "strategy": "bidirectional",
+  "target": 200,
+  "alternatives": [
+   "bidirectional",
+   "cortisimo",
+   "corto",
+   "evasivo",
+   "fragmentacion",
+   "hibrido",
+   "retry",
+   "shortest",
+   "shortest_hug",
+   "shortest_open",
+   "shortest_safe",
+   "shortest_turns",
+   "waypoints"
+  ]
+ },
+ "25": {
+  "strategy": "shortest",
+  "target": 117,
+  "alternatives": [
+   "retry",
+   "shortest"
+  ]
+ },
+ "26": {
+  "strategy": "bidirectional",
+  "target": 86,
+  "alternatives": [
+   "bidirectional",
+   "retry",
+   "shortest_turns"
+  ]
+ },
+ "27": {
+  "strategy": "bidirectional",
+  "target": 100,
+  "alternatives": [
+   "bidirectional",
+   "cortisimo",
+   "corto",
+   "evasivo",
+   "fragmentacion",
+   "hibrido",
+   "retry",
+   "shortest",
+   "shortest_hug",
+   "shortest_open",
+   "shortest_safe",
+   "shortest_turns",
+   "waypoints"
+  ]
+ }
+}
